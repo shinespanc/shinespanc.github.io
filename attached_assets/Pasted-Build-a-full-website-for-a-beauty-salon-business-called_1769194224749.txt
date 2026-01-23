@@ -1,0 +1,74 @@
+Build a full website for a beauty salon business called “Shine Beauty Salon & Spa.” The site should feel fresh, bright, and inviting with a modern design and easy navigation. Use the following content and structure:
+Homepage / Hero Section
+Welcome to Shine Beauty Salon & Spa
+Your go-to beauty destination in High Point, NC for glowing skin, flawless nails, perfect brows, and total pampering.
+We make beauty simple, fresh, and joyful — tailored just for you.
+👉 Book your appointment today and shine from the inside out!
+Navigation (top right)
+Include links to:
+Home
+Services
+About
+Gallery
+Contact
+Social (Facebook & Instagram)
+Services Section
+Add all services as listed on Shine Beauty Salon & Nail Spa’s Vagaro booking page in easy-to-read categories, with prices if available:
+At Shine Beauty Salon & Spa, we offer a full menu of professional beauty services designed to help you look and feel your best.
+💅 Nails & Spa
+Classic Manicure
+Gel Manicure / Shellac
+Spa Pedicure
+Nail Art & Enhancements
+Perfect for polished hands and happy toes!
+✨ Facials & Skin Care
+Glow Facial Treatments
+Deep Cleanse Facial
+Anti-Aging & Hydration Facials
+Customized Skin Care Plans
+Revitalize your complexion with expert care.
+✍️ Brows, Lashes & Threading
+Eyebrow Shaping & Threading
+Brow Lamination & Tint
+Lash Lift & Tint
+Frame your face with perfectly shaped brows and lifted lashes.
+🧖 Waxing & Hair Removal
+Full Body Waxing
+Facial Waxing
+Personal Waxing Services
+Smooth, clean results every time.
+💆 Massage & Body Services
+Relaxing Massage Sessions
+Specialty Body Treatments
+Let go of tension and stress with a soothing massage.
+💇 Hair Services (If offered)
+Styling & Blowouts
+Hair Extensions
+Specialty Treatments
+Beautiful hair starts with healthy care.
+Note: Detailed service names and prices are pulled from your Vagaro booking site; make sure to auto-sync or finalize them in Google AI Studios.
+Add a sidebar or dropdown “Menu Card” with the full list of services and prices.
+About Us
+Owner:
+Include a bio of the owner: Shammi Sharma —At Shine Beauty Salon & Spa, we believe that beauty should feel effortless and uplifting. Our founder, Shammi Sharma, brings warmth, creativity, and dedication to every service. With years of experience in beauty care, Shammi’s mission is to help every guest feel confident and radiant — inside and out.
+Whether you’re visiting for a quick brow shape or full pampering session, you’ll be welcomed like family.
+Highlight commitment to quality, a welcoming environment, and personalized care.
+Social Media and Contact
+📍 Location: High Point, NC
+📞 Phone: 336-309-1065
+Follow us on social media:
+🔗 Facebook: https://www.facebook.com/groups/906064359948904/posts/1957466918141971/
+🔗 Instagram: https://www.instagram.com/shinebeauty459/
+Stay in touch for beauty tips, appointment reminders, and exclusive deals!
+Gallery
+(Place a rotating gallery here with high-quality photos showcasing nail art, facials, waxing, threading, and happy clients.)
+✨ Bright, candid moments that show off your best work!
+Footer
+Business address (High Point, NC — from business profile).
+Hours of operation (approx if known from profiles).
+Social links (Facebook & Instagram).
+Link to Vagaro online booking page.
+Style & UX Notes
+Fresh, inviting look with pastel or neutral palettes and crisp typography.
+Clear “Book Now” CTAs throughout.
+Responsive design for mobile & desktop.
