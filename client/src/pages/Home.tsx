@@ -33,8 +33,8 @@ export default function Home() {
             alt="Shine Beauty Salon Interior"
             className="w-full h-full object-cover"
           />
-          <div className="absolute inset-0 bg-white/40 backdrop-blur-[2px]"></div>
-          <div className="absolute inset-0 bg-gradient-to-t from-white via-transparent to-transparent"></div>
+          <div className="absolute inset-0 bg-black/40 backdrop-blur-[2px]"></div>
+          <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent"></div>
         </div>
 
         <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
@@ -43,14 +43,14 @@ export default function Home() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8, ease: "easeOut" }}
           >
-            <span className="inline-block px-4 py-1.5 rounded-full bg-white/80 backdrop-blur border border-primary/20 text-primary font-medium text-sm mb-6 shadow-sm">
+            <span className="inline-block px-4 py-1.5 rounded-full bg-black/40 backdrop-blur border border-white/20 text-white font-medium text-sm mb-6 shadow-sm">
               ✨ Welcome to Shine Beauty Salon & Spa
             </span>
-            <h1 className="font-display text-5xl md:text-7xl lg:text-8xl font-bold text-foreground mb-6 leading-tight">
+            <h1 className="font-display text-5xl md:text-7xl lg:text-8xl font-bold text-white mb-6 leading-tight">
               Reveal Your <br />
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary to-primary/60">Inner Glow</span>
             </h1>
-            <p className="text-lg md:text-xl text-foreground max-w-2xl mx-auto mb-10 leading-relaxed font-semibold">
+            <p className="text-lg md:text-xl text-white max-w-2xl mx-auto mb-10 leading-relaxed font-semibold">
               Your go-to beauty destination in High Point, NC for glowing skin, flawless nails, perfect brows, and total pampering.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
