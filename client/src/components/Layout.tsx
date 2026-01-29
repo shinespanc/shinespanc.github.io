@@ -1,6 +1,7 @@
 import { Link, useLocation } from "wouter";
 import { useState, useEffect } from "react";
 import { Menu, X, Instagram, Facebook, MapPin, Phone } from "lucide-react";
+import { SiTiktok } from "react-icons/si";
 import { BookingButton } from "./BookingButton";
 import { motion, AnimatePresence } from "framer-motion";
 
@@ -44,6 +45,9 @@ export function Layout({ children }: { children: React.ReactNode }) {
             </a>
             <a href="https://www.instagram.com/shinebeauty459/" target="_blank" rel="noopener noreferrer" className="hover:text-secondary transition-colors">
               <Instagram className="w-4 h-4" />
+            </a>
+            <a href="https://www.tiktok.com/@shinebeautysalonandnail" target="_blank" rel="noopener noreferrer" className="hover:text-secondary transition-colors">
+              <SiTiktok className="w-4 h-4" />
             </a>
           </div>
         </div>
@@ -138,6 +142,9 @@ export function Layout({ children }: { children: React.ReactNode }) {
                 </a>
                 <a href="https://www.instagram.com/shinebeauty459/" target="_blank" rel="noreferrer" className="w-10 h-10 rounded-full bg-background flex items-center justify-center text-primary hover:bg-primary hover:text-white transition-colors shadow-sm">
                   <Instagram className="w-5 h-5" />
+                </a>
+                <a href="https://www.tiktok.com/@shinebeautysalonandnail" target="_blank" rel="noreferrer" className="w-10 h-10 rounded-full bg-background flex items-center justify-center text-primary hover:bg-primary hover:text-white transition-colors shadow-sm">
+                  <SiTiktok className="w-5 h-5" />
                 </a>
               </div>
             </div>

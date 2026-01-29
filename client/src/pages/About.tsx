@@ -1,6 +1,7 @@
 import { motion } from "framer-motion";
 import { BookingButton } from "@/components/BookingButton";
-import { CheckCircle2 } from "lucide-react";
+import { CheckCircle2, Facebook, Instagram } from "lucide-react";
+import { SiTiktok } from "react-icons/si";
 
 export default function About() {
   return (
@@ -43,6 +44,21 @@ export default function About() {
                   <CheckCircle2 className="w-5 h-5 text-primary" /> {item}
                 </div>
               ))}
+            </div>
+
+            <div className="mt-12">
+              <h3 className="font-display text-2xl font-bold mb-6">Follow Our Journey</h3>
+              <div className="flex gap-4">
+                <a href="https://www.facebook.com/groups/906064359948904/posts/1957466918141971/" target="_blank" className="w-12 h-12 rounded-full bg-white border border-border flex items-center justify-center text-primary hover:border-primary/50 hover:scale-110 transition-all shadow-sm">
+                  <Facebook className="w-5 h-5" />
+                </a>
+                <a href="https://www.instagram.com/shinebeauty459/" target="_blank" className="w-12 h-12 rounded-full bg-white border border-border flex items-center justify-center text-primary hover:border-primary/50 hover:scale-110 transition-all shadow-sm">
+                  <Instagram className="w-5 h-5" />
+                </a>
+                <a href="https://www.tiktok.com/@shinebeautysalonandnail" target="_blank" className="w-12 h-12 rounded-full bg-white border border-border flex items-center justify-center text-primary hover:border-primary/50 hover:scale-110 transition-all shadow-sm">
+                  <SiTiktok className="w-5 h-5" />
+                </a>
+              </div>
             </div>
           </motion.div>
           
