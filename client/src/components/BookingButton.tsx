@@ -17,7 +17,7 @@ export function BookingButton({ className, variant = "primary", ...props }: Book
 
   return (
     <a
-      href="https://www.vagaro.com/shinebeautysalonspa"
+      href="https://www.vagaro.com/shinebeautysalonspa/services"
       target="_blank"
       rel="noopener noreferrer"
       className={cn(baseStyles, variants[variant], className)}
