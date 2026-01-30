@@ -180,7 +180,7 @@ export default function Home() {
                 img: massageImg 
               }
             ].map((service, idx) => (
-              <Link key={idx} href="/services">
+              <Link key={idx} href={`/services?category=${encodeURIComponent(service.name)}`}>
                 <motion.div 
                   whileHover={{ y: -5 }}
                   className="group relative h-80 rounded-2xl overflow-hidden cursor-pointer shadow-lg"

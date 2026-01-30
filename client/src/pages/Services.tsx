@@ -1,4 +1,5 @@
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
+import { useSearch } from "wouter/use-browser-location";
 import { motion } from "framer-motion";
 import { BookingButton } from "@/components/BookingButton";
 import servicesData from "@/resources/services.json";
@@ -10,9 +11,22 @@ import {
 } from "@/components/ui/accordion";
 
 export default function Services() {
+  const search = useSearch();
+  const [activeItem, setActiveItem] = useState<string | undefined>(undefined);
+
   useEffect(() => {
     window.scrollTo(0, 0);
-  }, []);
+    
+    const params = new URLSearchParams(search);
+    const category = params.get("category");
+    if (category) {
+      // Find the index of the category in the sorted list
+      const index = order.indexOf(category);
+      if (index !== -1) {
+        setActiveItem(`item-${index}`);
+      }
+    }
+  }, [search]);
 
   // Service type order as requested: Facials (Full Facials), Waxing, Threading, Massage, Hands Henna
   const order = ["Full Facials", "Waxing", "Threading", "Massage", "Hands Heena ( Mehndi) Tattoo"];
@@ -39,7 +53,13 @@ export default function Services() {
       </div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 mt-16">
-        <Accordion type="single" collapsible className="w-full space-y-4 border-none">
+        <Accordion 
+          type="single" 
+          collapsible 
+          value={activeItem}
+          onValueChange={setActiveItem}
+          className="w-full space-y-4 border-none"
+        >
           {sortedCategories.map((group, idx) => (
             <AccordionItem 
               key={group.service_type} 
