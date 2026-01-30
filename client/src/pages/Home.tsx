@@ -162,11 +162,7 @@ export default function Home() {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
             {[
               { 
-                name: "Nail Care", 
-                img: "https://images.unsplash.com/photo-1632345031435-8727f6897d53?q=80&w=2070&auto=format&fit=crop" 
-              },
-              { 
-                name: "Facials", 
+                name: "Full Facials", 
                 img: "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?q=80&w=2070&auto=format&fit=crop" 
               },
               { 
@@ -174,8 +170,12 @@ export default function Home() {
                 img: waxingImg 
               },
               { 
-                name: "Brows & Lashes", 
-                img: browsLashesImg 
+                name: "Threading", 
+                img: "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?q=80&w=2070&auto=format&fit=crop" 
+              },
+              { 
+                name: "Massage", 
+                img: "https://images.unsplash.com/photo-1544161515-4af6b1d46af0?q=80&w=2070&auto=format&fit=crop" 
               }
             ].map((service, idx) => (
               <Link key={idx} href="/services">
