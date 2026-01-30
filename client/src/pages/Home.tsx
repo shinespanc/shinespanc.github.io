@@ -4,6 +4,7 @@ import { ArrowRight, Star, Sparkles, Heart } from "lucide-react";
 import { Link } from "wouter";
 import waxingImg from "@/assets/waxing.png";
 import threadingImg from "@/assets/threading.png";
+import massageImg from "@/assets/massage.png";
 import browsLashesImg from "@/assets/brows_lashes.png";
 
 export default function Home() {
@@ -176,7 +177,7 @@ export default function Home() {
               },
               { 
                 name: "Massage", 
-                img: "https://images.unsplash.com/photo-1544161515-4af6b1d46af0?q=80&w=2070&auto=format&fit=crop" 
+                img: massageImg 
               }
             ].map((service, idx) => (
               <Link key={idx} href="/services">
