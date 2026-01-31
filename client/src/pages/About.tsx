@@ -1,9 +1,14 @@
+import { useEffect } from "react";
 import { motion } from "framer-motion";
 import { BookingButton } from "@/components/BookingButton";
 import { CheckCircle2, Facebook, Instagram } from "lucide-react";
 import { SiTiktok } from "react-icons/si";
 
 export default function About() {
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
+
   return (
     <div className="w-full bg-background pb-24">
       {/* Header */}

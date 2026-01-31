@@ -1,8 +1,13 @@
+import { useEffect } from "react";
 import { BookingButton } from "@/components/BookingButton";
 import { MapPin, Phone, Mail, Clock, Facebook, Instagram } from "lucide-react";
 import { SiTiktok } from "react-icons/si";
 
 export default function Contact() {
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
+
   return (
     <div className="w-full bg-background pb-24">
       {/* Header */}
