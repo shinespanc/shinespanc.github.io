@@ -7,6 +7,7 @@ import threadingImg from "@/assets/threading.png";
 import massageImg from "@/assets/massage.png";
 import browsLashesImg from "@/assets/brows_lashes.png";
 import shammiImg from "@assets/image1_1770075374241.jpeg";
+import heroImg from "@assets/image25_1770075846034.jpeg";
 
 export default function Home() {
   const container = {
@@ -30,9 +31,8 @@ export default function Home() {
       <section className="relative min-h-[90vh] flex items-center justify-center overflow-hidden">
         {/* Background Image with Overlay */}
         <div className="absolute inset-0 z-0">
-          {/* Unsplash image: Bright, clean beauty salon interior */}
           <img
-            src="https://images.unsplash.com/photo-1600948836101-f9ffda59d250?q=80&w=2072&auto=format&fit=crop"
+            src={heroImg}
             alt="Shine Beauty Salon Interior"
             className="w-full h-full object-cover"
           />
