@@ -291,6 +291,34 @@
           "type": "Hands Heena ( Mehndi) Tattoo",
           "service_name": "Hands Heena Tattoo",
           "description": "Experience the beauty of traditional artistry with a luxurious hand henna tattoo application. Using natural, skin-safe henna, intricate designs are carefully crafted to enhance the elegance of your hands. This relaxing and artistic service leaves you with a rich, temporary stain that deepens beautifully over time, perfect for celebrations, special occasions, or personal expression.",
+          "price": "$10 and up"
+        },
+        {
+          "type": "Hands Heena ( Mehndi) Tattoo",
+          "service_name": "Hair Heena Pack",
+          "description": "A hair heena pack is best defined as a natural herbal hair treatment made mainly from heena (Mehndi ) powder , mixed with other ingredients to condition, strengthen , and naturally color hair. key benefits :- Strengthens hair roots, adds natural shine & smoothness, Helps control dandruff & scalp irritation. improves hair texture, provides natural Grey coverage ( depending on mix) For hair heena pack appointment please let us know 1 day before",
+          "price": "$30 and up"
+        }
+      ]
+    },
+    {
+      "service_type": "Makeup and Styling",
+      "services": [
+        {
+          "type": "Makeup and Styling",
+          "service_name": "Makeup & Hairstyle",
+          "description": "Professional makeup and hairstyling services tailored for parties and special occasions. Whether you prefer a soft, natural look or a glamorous finish, our artists customize each style to enhance your features. Perfect for celebrations, events, and any occasion where you want to look and feel your best.",
+          "price": 20.0
+        }
+      ]
+    },
+    {
+      "service_type": "Hair",
+      "services": [
+        {
+          "type": "Hair",
+          "service_name": "Hair Services",
+          "description": "Hair services are available by appointment only. Please call the salon directly to schedule your visit and receive personalized assistance from our team.",
           "price": 20.0
         }
       ]
