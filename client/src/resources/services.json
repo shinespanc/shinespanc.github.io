@@ -59,9 +59,39 @@
         },
         {
           "type": "Full Facials",
-          "service_name": "Microdermabrasion",
-          "description": "This standalone exfoliation treatment gently resurfaces the skin to improve tone, texture, and clarity. It helps reduce fine lines, sun damage, mild scarring, and pigmentation. The procedure stimulates collagen production and enhances skin brightness. Ideal for clients seeking smoother, more radiant skin.",
-          "price": 90.0
+          "service_name": "The Express Facial",
+          "description": "The Experess Facial offers a swift and effective treatment designed to rejuvenate your skin,enhancing both tone and texture.This service focuses on essential steps that deliver immediate result,making it perfect for those with busy schedules seeking a quick refresh.",
+          "price": 55.0
+        },
+        {
+          "type": "Full Facials",
+          "service_name": "Golden Honey Nourishing Brightening Facial",
+          "description": "This Luxurios golden - hued facial ,designed to hydrate ,soothe ,and replenish tired, stressed comlpexions. ,& in this facial Lemon Zest Enzime contains lemon, 8% arbutin , 6% lactic acid ,3% glycolic acidand 2% kojic acid.Skin Type:- Dry , Mature, Skin with pigmentation.",
+          "price": 70.0
+        },
+        {
+          "type": "Full Facials",
+          "service_name": "Pineapple Honey Signature Facial",
+          "description": "This signature facial features Pineapple Enzyme, an award-winning, fruit-forward exfoliant ideal for dull, rough, or breakout-prone skin. Gentle enzymatic exfoliation with naturally occurring bromelain and papain helps refine texture and support visible skin renewal. The treatment is completed with a Golden Honey Nourishing Mask, a luxurious peptide-powered formula that delivers deep hydration while restoring moisture balance. Perfect for a brightening refresh or a pre-event glow.Skin Type: All",
+          "price": 70.0
+        },
+        {
+          "type": "Full Facials",
+          "service_name": "Hydro gelly Mask",
+          "description": "This deeply hydrating Hydro Gelly Mask provides powerful antioxidant protection while soothing and calming the skin. It helps promote skin repair and regeneration, leaving the complexion refreshed, plump, and radiant. Ideal for all skin types, including sensitive skin.",
+          "price": 12.0
+        },
+        {
+          "type": "Full Facials",
+          "service_name": "Add-on: Face bleach",
+          "description": "This add-on treatment gently lightens facial hair to create a brighter, more even-looking complexion. Helps enhance skin clarity and smoothness, making makeup application flawless. Ideal as a complement to any facial service.",
+          "price": 10.0
+        },
+        {
+          "type": "Full Facials",
+          "service_name": "Add-On: Advanced Facial Machine Tools",
+          "description": "Enhance your facial with advanced skincare technologies tailored to your skin’s needs. Choose from Microdermabrasion, LED Light Therapy, Radio Frequency (RF), or Microcurrent Therapy to boost results. These targeted add-ons help improve skin texture, tone, firmness, and overall radiance.",
+          "price": 25.0
         }
       ]
     },
@@ -175,6 +205,24 @@
           "service_name": "Full Body",
           "description": "A comprehensive waxing service covering multiple areas of the body for head-to-toe smoothness. Ideal for those looking for complete hair removal in one session. Leaves skin silky and polished.",
           "price": "Starting at $250.00"
+        },
+        {
+          "type": "Waxing",
+          "service_name": "Ear Waxing",
+          "description": "Safely and effective remove unwanted hair from the outer ear and lobe area with our professional ear waxing service.",
+          "price": 10.00
+        },
+        {
+          "type": "Waxing",
+          "service_name": "Nose Waxing",
+          "description": "Quickly and effectively remove unwanted nose hair with our professional nose waxing service for a cleaner and more polished look.",
+          "price": 10.00
+        },
+        {
+          "type": "Waxing",
+          "service_name": "First Time Brazillian Wax",
+          "description": "Newcomers to our salon can enjoy a smooth and comfortable waxing experience at an exclusive introductory price .We focus on creating a welcoming and stress free atmosphere. Take advantage of this special offer to discover our high quality techniques and achieve long -lasting smoothness.",
+          "price":  50.00
         }
       ]
     },
