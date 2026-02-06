@@ -10,7 +10,6 @@ import img9 from "@assets/image9_1770076506405.jpeg";
 import img22 from "@assets/image22_1770076506405.jpeg";
 import img23 from "@assets/image23_1770076506406.jpeg";
 import img24 from "@assets/image24_1770076506406.jpeg";
-import img25 from "@assets/image25_1770076506407.jpeg";
 import img27 from "@assets/image27_1770076506407.jpeg";
 import img29 from "@assets/image29_1770076506407.jpeg";
 import img31 from "@assets/image31_1770076506407.jpeg";
@@ -76,7 +75,6 @@ const images = [
   newImg18,
   img8,
   newImg20,
-  img25,
   addImg29,
   newImg6,
   img9,
