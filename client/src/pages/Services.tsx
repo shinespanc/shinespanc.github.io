@@ -108,7 +108,15 @@ export default function Services() {
                             </span>
                           </div>
                           {service.description && (
-                            <p className="text-muted-foreground text-sm leading-relaxed max-w-xl">{service.description}</p>
+                            <p className="text-muted-foreground text-sm leading-relaxed max-w-xl">
+                              {service.description.includes('www.vagaro.com/shinebeautysalonspa')
+                                ? <>
+                                    {service.description.split('www.vagaro.com/shinebeautysalonspa')[0]}
+                                    <a href="https://www.vagaro.com/shinebeautysalonspa" target="_blank" rel="noopener noreferrer" className="text-primary font-semibold underline hover:text-primary/80">www.vagaro.com/shinebeautysalonspa</a>
+                                    {service.description.split('www.vagaro.com/shinebeautysalonspa')[1]}
+                                  </>
+                                : service.description}
+                            </p>
                           )}
                         </div>
                         <div className="hidden sm:block text-right min-w-[120px]">
