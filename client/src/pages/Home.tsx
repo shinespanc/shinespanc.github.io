@@ -8,6 +8,7 @@ import massageImg from "@/assets/massage.png";
 import browsLashesImg from "@/assets/brows_lashes.png";
 import nailServicesImg from "@assets/Beautiful_feet_1770342104517.jpg";
 import hairImg from "@assets/Hair_1_1770342830775.jpg";
+import hennaImg from "@assets/henna_1770342910203.jpg";
 import shammiImg from "@assets/image1_1770075374241.jpeg";
 import heroImg from "@assets/image29_1770076038079.jpeg";
 
@@ -192,7 +193,7 @@ export default function Home() {
               },
               { 
                 name: "Henna", 
-                img: "https://images.unsplash.com/photo-1599707367812-042050bc06d0?q=80&w=2070&auto=format&fit=crop",
+                img: hennaImg,
                 category: "Hands Heena ( Mehndi) Tattoo"
               },
               { 
