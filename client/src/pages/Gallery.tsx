@@ -37,35 +37,64 @@ import newImg20 from "@assets/image20_1770338592826.jpeg";
 import newImg27 from "@assets/image27_1770338592822.jpeg";
 import newImg33 from "@assets/image33_1770338592826.jpeg";
 
+import addImg5 from "@assets/image5_1770338720277.jpeg";
+import addImg10 from "@assets/image10_1770338720278.jpeg";
+import addImg11 from "@assets/image11_1770338720279.jpeg";
+import addImg21 from "@assets/image21_1770338720280.jpeg";
+import addImg22 from "@assets/image22_1770338720281.jpeg";
+import addImg23 from "@assets/image23_1770338720281.jpeg";
+import addImg24 from "@assets/image24_1770338720282.jpeg";
+import addImg25 from "@assets/image25_1770338720283.jpeg";
+import addImg28 from "@assets/image28_1770338720284.jpeg";
+import addImg29 from "@assets/image29_1770338720285.jpeg";
+import addImg30 from "@assets/image30_1770338720286.jpeg";
+import addImg31 from "@assets/image31_1770338720275.jpeg";
+import addImg32 from "@assets/image32_1770338720277.jpeg";
+import addImg34 from "@assets/image34_1770338720284.jpeg";
+
 const images = [
   newImg0,
   img4,
+  addImg21,
   newImg8,
   img5,
+  addImg5,
   newImg17,
   img22,
+  addImg10,
   newImg4,
   img6,
+  addImg24,
   newImg14,
   img23,
+  addImg25,
   newImg12,
   img7,
+  addImg11,
   newImg27,
   img24,
+  addImg22,
   newImg18,
   img8,
+  addImg30,
   newImg20,
   img25,
+  addImg29,
   newImg6,
   img9,
+  addImg32,
   newImg9,
   img27,
+  addImg28,
   newImg16,
   img29,
+  addImg23,
   newImg1,
   img31,
+  addImg31,
   newImg7,
   img3,
+  addImg34,
   newImg15,
   newImg3,
   newImg19,
