@@ -161,26 +161,50 @@ export default function Home() {
             From rejuvenating facials to stunning nail art, we offer a comprehensive menu of beauty services tailored to your needs.
           </p>
 
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
             {[
               { 
                 name: "Full Facials", 
-                img: "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?q=80&w=2070&auto=format&fit=crop" 
+                img: "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?q=80&w=2070&auto=format&fit=crop",
+                category: "Full Facials"
+              },
+              { 
+                name: "Nail Services", 
+                img: "https://images.unsplash.com/photo-1604654894610-df63bc536371?q=80&w=2070&auto=format&fit=crop",
+                category: "Nail Services"
               },
               { 
                 name: "Waxing", 
-                img: waxingImg 
+                img: waxingImg,
+                category: "Waxing"
               },
               { 
                 name: "Threading", 
-                img: threadingImg 
+                img: threadingImg,
+                category: "Threading"
               },
               { 
                 name: "Massage", 
-                img: massageImg 
+                img: massageImg,
+                category: "Massage"
+              },
+              { 
+                name: "Henna", 
+                img: "https://images.unsplash.com/photo-1599707367812-042050bc06d0?q=80&w=2070&auto=format&fit=crop",
+                category: "Hands Heena ( Mehndi) Tattoo"
+              },
+              { 
+                name: "Makeup", 
+                img: "https://images.unsplash.com/photo-1487412947147-5cebf100ffc2?q=80&w=2071&auto=format&fit=crop",
+                category: "Makeup and Styling"
+              },
+              { 
+                name: "Hair", 
+                img: "https://images.unsplash.com/photo-1560066984-138dadb4c035?q=80&w=2074&auto=format&fit=crop",
+                category: "Hair"
               }
             ].map((service, idx) => (
-              <Link key={idx} href={`/services?category=${encodeURIComponent(service.name)}`}>
+              <Link key={idx} href={`/services?category=${encodeURIComponent(service.category)}`}>
                 <motion.div 
                   whileHover={{ y: -5 }}
                   className="group relative h-80 rounded-2xl overflow-hidden cursor-pointer shadow-lg"
