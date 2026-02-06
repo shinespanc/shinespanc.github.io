@@ -8,7 +8,7 @@ import massageImg from "@/assets/massage.png";
 import browsLashesImg from "@/assets/brows_lashes.png";
 import nailServicesImg from "@assets/Beautiful_feet_1770342104517.jpg";
 import hairImg from "@assets/Hair_1_1770342830775.jpg";
-import hennaImg from "@assets/henna_1770342910203.jpg";
+import hennaImg from "@assets/henna_rotated.jpg";
 import shammiImg from "@assets/image1_1770075374241.jpeg";
 import heroImg from "@assets/image29_1770076038079.jpeg";
 
