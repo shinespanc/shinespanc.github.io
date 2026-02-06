@@ -6,7 +6,7 @@ import waxingImg from "@/assets/waxing.png";
 import threadingImg from "@/assets/threading.png";
 import massageImg from "@/assets/massage.png";
 import browsLashesImg from "@/assets/brows_lashes.png";
-import nailServicesImg from "@assets/Nail_Services_1770341803736.jpg";
+import nailServicesImg from "@assets/Beautiful_feet_1770342104517.jpg";
 import shammiImg from "@assets/image1_1770075374241.jpeg";
 import heroImg from "@assets/image29_1770076038079.jpeg";
 
