@@ -146,7 +146,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
                 <a href="https://www.instagram.com/shinebeauty459/" target="_blank" rel="noreferrer" className="w-10 h-10 rounded-full bg-background flex items-center justify-center text-primary hover:bg-primary hover:text-white transition-colors shadow-sm">
                   <Instagram className="w-5 h-5" />
                 </a>
-                <a href="https://www.tiktok.com/@shinebeautysalonandnail" target="_blank" rel="noreferrer" className="w-10 h-10 rounded-full bg-background flex items-center justify-center text-primary hover:bg-primary hover:text-white transition-colors shadow-sm">
+                <a href="https://www.tiktok.com/@shinebeautysalonandspa" target="_blank" rel="noreferrer" className="w-10 h-10 rounded-full bg-background flex items-center justify-center text-primary hover:bg-primary hover:text-white transition-colors shadow-sm">
                   <SiTiktok className="w-5 h-5" />
                 </a>
               </div>

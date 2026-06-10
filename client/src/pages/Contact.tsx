@@ -93,7 +93,7 @@ export default function Contact() {
                 <a href="https://www.instagram.com/shinebeauty459/" target="_blank" className="flex items-center gap-2 px-6 py-3 rounded-xl bg-white border border-border hover:border-primary/50 hover:text-primary transition-all shadow-sm">
                   <Instagram className="w-5 h-5" /> Instagram
                 </a>
-                <a href="https://www.tiktok.com/@shinebeautysalonandnail" target="_blank" className="flex items-center gap-2 px-6 py-3 rounded-xl bg-white border border-border hover:border-primary/50 hover:text-primary transition-all shadow-sm">
+                <a href="https://www.tiktok.com/@shinebeautysalonandspa" target="_blank" className="flex items-center gap-2 px-6 py-3 rounded-xl bg-white border border-border hover:border-primary/50 hover:text-primary transition-all shadow-sm">
                   <SiTiktok className="w-5 h-5" /> TikTok
                 </a>
               </div>

@@ -144,7 +144,7 @@ export default function Gallery() {
             <span className="text-muted-foreground">&bull;</span>
             <a href="https://www.instagram.com/shinebeauty459/" target="_blank" className="font-semibold text-primary hover:underline">Instagram</a>
             <span className="text-muted-foreground">&bull;</span>
-            <a href="https://www.tiktok.com/@shinebeautysalonandnail" target="_blank" className="font-semibold text-primary hover:underline">TikTok</a>
+            <a href="https://www.tiktok.com/@shinebeautysalonandspa" target="_blank" className="font-semibold text-primary hover:underline">TikTok</a>
           </div>
         </div>
       </div>
