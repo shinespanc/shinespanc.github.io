@@ -43,13 +43,13 @@ export function Layout({ children }: { children: React.ReactNode }) {
             </span>
           </div>
           <div className="flex gap-3">
-            <a href="https://www.facebook.com/groups/906064359948904/posts/1957466918141971/" target="_blank" rel="noopener noreferrer" className="hover:text-secondary transition-colors">
+            <a href="https://www.facebook.com/people/Shine-beauty-salon-Nail-spa/61552132010106/#" target="_blank" rel="noopener noreferrer" className="hover:text-secondary transition-colors">
               <Facebook className="w-4 h-4" />
             </a>
             <a href="https://www.instagram.com/shinebeauty459/" target="_blank" rel="noopener noreferrer" className="hover:text-secondary transition-colors">
               <Instagram className="w-4 h-4" />
             </a>
-            <a href="https://www.tiktok.com/@shinebeautysalonandnail" target="_blank" rel="noopener noreferrer" className="hover:text-secondary transition-colors">
+            <a href="https://www.tiktok.com/@shinebeautysalonandspa" target="_blank" rel="noopener noreferrer" className="hover:text-secondary transition-colors">
               <SiTiktok className="w-4 h-4" />
             </a>
           </div>
