@@ -23,7 +23,7 @@ A beautiful website for Shine Beauty Salon & Spa located in High Point, NC.
 3. Wait a few minutes for GitHub to deploy, then visit https://shinespanc.github.io/
 
 
-### Updating the Site
+### Updating the Sites
 
 **Important:** Every time you make changes to the site in Replit, you'll need to:
 
