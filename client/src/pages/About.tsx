@@ -94,7 +94,7 @@ export default function About() {
             <div>
               <div className="w-16 h-16 bg-secondary/50 rounded-2xl mx-auto flex items-center justify-center text-3xl mb-6">✨</div>
               <h3 className="font-bold text-xl mb-3">Excellence</h3>
-              <p className="text-muted-foreground">We never compromise on quality. From our products to our service, expect the best.</p>
+              <p className="text-muted-foreground">We never compromise on quality. From our products to our service, expect the best always.</p>
             </div>
             <div>
               <div className="w-16 h-16 bg-secondary/50 rounded-2xl mx-auto flex items-center justify-center text-3xl mb-6">🌿</div>
