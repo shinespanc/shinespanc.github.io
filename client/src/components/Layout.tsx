@@ -140,7 +140,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
                 Your go-to beauty destination in High Point, NC at 2402 Hickswood Rd #108. We are dedicated to providing you with the highest quality service in a warm and relaxing environment.
               </p>
               <div className="flex gap-4">
-                <a href="https://www.facebook.com/groups/906064359948904/posts/1957466918141971/" target="_blank" rel="noreferrer" className="w-10 h-10 rounded-full bg-background flex items-center justify-center text-primary hover:bg-primary hover:text-white transition-colors shadow-sm">
+                <a href="https://www.facebook.com/people/Shine-beauty-salon-Nail-spa/61552132010106/#" target="_blank" rel="noreferrer" className="w-10 h-10 rounded-full bg-background flex items-center justify-center text-primary hover:bg-primary hover:text-white transition-colors shadow-sm">
                   <Facebook className="w-5 h-5" />
                 </a>
                 <a href="https://www.instagram.com/shinebeauty459/" target="_blank" rel="noreferrer" className="w-10 h-10 rounded-full bg-background flex items-center justify-center text-primary hover:bg-primary hover:text-white transition-colors shadow-sm">

@@ -271,4 +271,4 @@ git pull origin main
 | **Online booking** | https://www.vagaro.com/shinebeautysalonspa |
 | **Instagram** | https://www.instagram.com/shinebeauty459/ |
 | **TikTok** | https://www.tiktok.com/@shinebeautysalonandspa |
-| **Facebook** | https://www.facebook.com/groups/906064359948904/posts/1957466918141971/ |
+| **Facebook** | https://www.facebook.com/people/Shine-beauty-salon-Nail-spa/61552132010106/# |

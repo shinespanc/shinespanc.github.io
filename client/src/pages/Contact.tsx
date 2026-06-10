@@ -87,7 +87,7 @@ export default function Contact() {
             <div className="mt-12">
               <h3 className="font-display text-2xl font-bold mb-6">Follow Us</h3>
               <div className="flex gap-4">
-                <a href="https://www.facebook.com/groups/906064359948904/posts/1957466918141971/" target="_blank" className="flex items-center gap-2 px-6 py-3 rounded-xl bg-white border border-border hover:border-primary/50 hover:text-primary transition-all shadow-sm">
+                <a href="https://www.facebook.com/people/Shine-beauty-salon-Nail-spa/61552132010106/#" target="_blank" className="flex items-center gap-2 px-6 py-3 rounded-xl bg-white border border-border hover:border-primary/50 hover:text-primary transition-all shadow-sm">
                   <Facebook className="w-5 h-5" /> Facebook
                 </a>
                 <a href="https://www.instagram.com/shinebeauty459/" target="_blank" className="flex items-center gap-2 px-6 py-3 rounded-xl bg-white border border-border hover:border-primary/50 hover:text-primary transition-all shadow-sm">
