@@ -55,13 +55,13 @@ export default function About() {
             <div className="mt-12">
               <h3 className="font-display text-2xl font-bold mb-6">Follow Our Journey</h3>
               <div className="flex gap-4">
-                <a href="https://www.facebook.com/groups/906064359948904/posts/1957466918141971/" target="_blank" className="w-12 h-12 rounded-full bg-white border border-border flex items-center justify-center text-primary hover:border-primary/50 hover:scale-110 transition-all shadow-sm">
+                <a href="https://www.facebook.com/people/Shine-beauty-salon-Nail-spa/61552132010106/#" target="_blank" className="w-12 h-12 rounded-full bg-white border border-border flex items-center justify-center text-primary hover:border-primary/50 hover:scale-110 transition-all shadow-sm">
                   <Facebook className="w-5 h-5" />
                 </a>
                 <a href="https://www.instagram.com/shinebeauty459/" target="_blank" className="w-12 h-12 rounded-full bg-white border border-border flex items-center justify-center text-primary hover:border-primary/50 hover:scale-110 transition-all shadow-sm">
                   <Instagram className="w-5 h-5" />
                 </a>
-                <a href="https://www.tiktok.com/@shinebeautysalonandnail" target="_blank" className="w-12 h-12 rounded-full bg-white border border-border flex items-center justify-center text-primary hover:border-primary/50 hover:scale-110 transition-all shadow-sm">
+                <a href="https://www.tiktok.com/@shinebeautysalonandspa" target="_blank" className="w-12 h-12 rounded-full bg-white border border-border flex items-center justify-center text-primary hover:border-primary/50 hover:scale-110 transition-all shadow-sm">
                   <SiTiktok className="w-5 h-5" />
                 </a>
               </div>
